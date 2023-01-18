@@ -2,11 +2,12 @@
 // Выписать в комментариях. Вам необходимо найти все переменные,
 // функции, аргументы и параметры.
 // Запишите имена в соответсвующие пункты
-// Переменные: years  myDog, 4   guests  
+// Переменные: years myDog guests  
 // Функции: dogYears makeTea  secret
-// Встроенные функции: console.log substring slice substr dogName
+// Встроенные функции: console.log substring slice substr slite
 // Аргументы: (myDog, 4) (guests, 'Earl Grey')
 // Параметры: (dogname, age) (cups, tea)
+
 // function dogYears(dogname, age) {
 //     let years = age * 2;
 //     console.log(dogName + ' is ' + years + ' years old');

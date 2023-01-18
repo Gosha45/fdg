@@ -4,7 +4,7 @@
 // Запишите имена в соответсвующие пункты
 // Переменные: years  myDog, 4   guests  
 // Функции: dogYears makeTea  secret
-// Встроенные функции: console.log substring slice
+// Встроенные функции: console.log substring slice substr dogName
 // Аргументы: (myDog, 4) (guests, 'Earl Grey')
 // Параметры: (dogname, age) (cups, tea)
 // function dogYears(dogname, age) {
